@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "6bcacc6748ff490c26084c3113b00d3e"
+build_time: [1673953001, 286700000]
+inputs:
+  "/Users/aelita/Developer/GitHub_projekte/test_your_reaction/test_your_reaction/macos/Runner/MainFlutterWindow.swift": [1633044719, 0]
+  "/Users/aelita/Developer/GitHub_projekte/test_your_reaction/test_your_reaction/macos/Runner/AppDelegate.swift": [1633044719, 0]
+  "/Users/aelita/Developer/GitHub_projekte/test_your_reaction/test_your_reaction/macos/Flutter/GeneratedPluginRegistrant.swift": [1673952970, 308836593]
